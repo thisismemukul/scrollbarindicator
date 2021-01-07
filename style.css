@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #fcfcfc;
+	height: 500vh;
+}
+#indicator{
+	margin: 0;
+	background: #33e1ed;
+	height: 6px;
+	width: 0;
+	position: fixed;
+	top: 0;
+	border-radius: 50px;
+}
